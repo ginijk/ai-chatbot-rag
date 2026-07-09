@@ -1,5 +1,3 @@
-# ai-chatbot-rag
-End-to-end RAG chatbot demonstrating document ingestion, vector search (FAISS), and LLM-based question answering via FastAPI.
 # 🧠 AI Chatbot with RAG (FastAPI + LangChain + FAISS)
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on your own documents.  
